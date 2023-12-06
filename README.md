@@ -7,7 +7,7 @@ This repository contains the code of the paper [Relational Prior Knowledge Graph
 
 ## Code Release
 - [x] Notebooks for Relational Prior Knowledge Graph (RPKG) generation
-- [ ] Relation Head
+- [x] Relation Head
 - [ ] Context Update
 - [ ] Full model
 
